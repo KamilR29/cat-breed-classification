@@ -1,4 +1,4 @@
-# EWD Project
+# Cat breed classification
 
 # 📁 Dataset: Cat Breeds – Dirty Version
 
